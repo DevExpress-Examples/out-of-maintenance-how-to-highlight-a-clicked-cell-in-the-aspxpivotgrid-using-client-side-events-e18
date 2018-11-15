@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/Q154045/Default.aspx) (VB: [Default.aspx](./VB/Q154045/Default.aspx))
+* [Default.aspx.cs](./CS/Q154045/Default.aspx.cs) (VB: [Default.aspx](./VB/Q154045/Default.aspx))
+<!-- default file list end -->
 # How to highlight a clicked cell in the ASPxPivotGrid using client-side events
 
 
