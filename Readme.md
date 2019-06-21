@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Q154045/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Q154045/Default.aspx.vb))
 <!-- default file list end -->
 # How to highlight a clicked cell in the ASPxPivotGrid using client-side events
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1830/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to highlight a cell if the user clicks on it using client side events. The previously clicked cell background reverts to its normal.</p>
