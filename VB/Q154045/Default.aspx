@@ -1,9 +1,9 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true"  CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
-<%@ Register assembly="DevExpress.Web.ASPxPivotGrid.v21.2, Version=21.2.8.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web.ASPxPivotGrid" tagprefix="dxwpg" %>
-<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.8.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxpc" %>
-<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.8.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxwgv" %>
-<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.8.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxe" %>
+<%@ Register assembly="DevExpress.Web.ASPxPivotGrid.v21.2, Version=21.2.9.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web.ASPxPivotGrid" tagprefix="dxwpg" %>
+<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.9.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxpc" %>
+<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.9.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxwgv" %>
+<%@ Register assembly="DevExpress.Web.v21.2, Version=21.2.9.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A" namespace="DevExpress.Web" tagprefix="dxe" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
